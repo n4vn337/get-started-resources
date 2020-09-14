@@ -108,6 +108,10 @@ ippsec
 GOOGLE FOR SURE
 https://google.com
 
+### Benefitial resources
+Resources for Beginner Bug Bounty Hunter by @nahamsec
+https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
+
 ### Get in touch with me for querries or Suggestions
 YouTUBE: https://www.youtube.com/pwnedbyNavneet
 
