@@ -115,12 +115,11 @@ https://github.com/nahamsec/Resources-for-Beginner-Bug-Bounty-Hunters
 ### Get in touch with me for querries or Suggestions
 YouTUBE: https://www.youtube.com/pwnedbyNavneet
 
-IG     : https://instagram.com/pwnedbynavneet
-https://instagram.com/its.navneetanand
+IG     : https://instagram.com/21navneet
 
 twitter: https://twitter.com/n4vn337
 
-site   : https://www.google.com/search?q=n4vn337
+site   : https://www.google.com/search?q=n4vn337 /domain expired 
 
 
 NOTE: Share this with anyone you find might get help.
