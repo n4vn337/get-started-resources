@@ -119,9 +119,9 @@ IG     : https://instagram.com/21navneet
 
 twitter: https://twitter.com/n4vn337
 
-site   : https://www.google.com/search?q=n4vn337 /domain expired 
+site   : https://infoseccoding.com
 
 
-NOTE: Share this with anyone you find might get help.
+Do share this with anyone you find might get help.
 
 THANK YOU <3
